@@ -47,6 +47,7 @@
 		<module>cf-coapbench</module>
 		<module>cf-polyfill</module>
 		<module>cf-rd</module>
+		<module>cf-rdsec</module>
 		<module>cf-server</module>
 	</modules>
 
